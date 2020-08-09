@@ -1,6 +1,6 @@
 # Udacity-programming-for-Data-Science-using-Python-Nanodegree
 
-This repository contains projects for Udacity Programming For Data Science Using Python Nanodegree.
+This repository contains projects of Udacity Programming For Data Science Using Python Nanodegree.
 
 ## Project 1
 
